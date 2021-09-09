@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653115522374",
+    "project_id": "loginf-4c477",
+    "storage_bucket": "loginf-4c477.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653115522374:android:20fc82b5b1e12fa3ebb947",
+        "android_client_info": {
+          "package_name": "com.example.memory.loginf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653115522374-nmec01ibas47ducrisgnvesqtd7gipmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ykIwDHHjsCtCr277v4D8qMn0_bsSeA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653115522374-nmec01ibas47ducrisgnvesqtd7gipmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
